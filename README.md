@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SanaMunawar-711711
+- 👀 I’m interested in learning python programming to apply to problems in the field of bioinformatics
+- I have worked on projects such as analyzing patient stress data, ORF (Open Reading Frame) finder, Boston house price' prediction, and iris species prediction.
+- 🌱 I’m currently learning introductory python
+- 📫 I can be reached via my email address: sanam19934@gmail.com
